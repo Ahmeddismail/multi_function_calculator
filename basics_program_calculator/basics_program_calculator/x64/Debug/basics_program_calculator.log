@@ -1,0 +1,5 @@
+﻿  basics_program_calculator.cpp
+D:\projects\basics_program_calculator\basics_program_calculator\basics_program_calculator.cpp(115): warning C4715: 'Calculation': not all control paths return a value
+D:\projects\basics_program_calculator\basics_program_calculator\basics_program_calculator.cpp(140): warning C4715: 'Recursion1': not all control paths return a value
+D:\projects\basics_program_calculator\basics_program_calculator\basics_program_calculator.cpp(166): warning C4715: 'Recursion2': not all control paths return a value
+  basics_program_calculator.vcxproj -> D:\projects\basics_program_calculator\x64\Debug\basics_program_calculator.exe
